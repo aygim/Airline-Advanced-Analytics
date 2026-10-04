@@ -18,13 +18,13 @@ The project focuses on questions such as:
 
 ## Tools & Technologies
 
-- **SQL / SQLite** — data extraction, joins, aggregations, CTEs, and business metric calculations
-- **Python** — data analysis and statistical testing
-- **Pandas & NumPy** — data cleaning, transformation, and exploratory analysis
-- **SciPy** — statistical hypothesis testing
-- **scikit-learn** — customer segmentation and feature scaling
-- **Plotly** — interactive data visualization
-- **Jupyter Notebook** — analysis and documentation
+- **SQL / SQLite** - data extraction, joins, aggregations, CTEs, and business metric calculations
+- **Python** - data analysis and statistical testing
+- **Pandas & NumPy** - data cleaning, transformation, and exploratory analysis
+- **SciPy** - statistical hypothesis testing
+- **scikit-learn** - customer segmentation and feature scaling
+- **Plotly** - interactive data visualization
+- **Jupyter Notebook** - analysis and documentation
 
 ---
 
@@ -178,12 +178,12 @@ The analysis highlighted several important patterns:
 
 The analysis demonstrates how airline transactional data can support business decision-making in areas such as:
 
-- **Customer segmentation** — identifying higher-value customer groups
-- **Revenue analysis** — understanding major sources of airline revenue
-- **Route performance** — identifying routes with stronger revenue contribution
-- **Pricing analysis** — comparing ticket values across fare classes
-- **Customer strategy** — supporting more targeted customer analysis and engagement
-- **Operational analysis** — understanding differences across routes and aircraft types
+- **Customer segmentation** - identifying higher-value customer groups
+- **Revenue analysis** - understanding major sources of airline revenue
+- **Route performance** - identifying routes with stronger revenue contribution
+- **Pricing analysis** - comparing ticket values across fare classes
+- **Customer strategy** - supporting more targeted customer analysis and engagement
+- **Operational analysis** - understanding differences across routes and aircraft types
 
 These insights could help analysts and business teams prioritize areas for deeper investigation and support data-driven planning.
 
